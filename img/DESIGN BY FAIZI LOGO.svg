@@ -15,7 +15,7 @@
    viewBox="0 0 72.289093 72.289093"
    version="1.1"
    id="svg8"
-   sodipodi:docname="DESIGN BY FAIZI.svg"
+   sodipodi:docname="DESIGN BY FAIZI LOGO.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs2">
@@ -129,9 +129,9 @@
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33539377"
-     inkscape:cx="603.77548"
-     inkscape:cy="182.59508"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="129.25143"
+     inkscape:cy="119.34758"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -168,7 +168,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
